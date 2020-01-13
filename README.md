@@ -52,8 +52,10 @@ phpcs -i
 
 Windows:
 
-```
 C:\Users\User\AppData\Roaming\Composer\vendor\squizlabs\php_codesniffer\src\Standards
+
+```
+cd C:/Users/User/AppData/Roaming/Composer/vendor/squizlabs/php_codesniffer/src/Standards && start .
 ```
 
 ## Install WordPress Coding Standarts
